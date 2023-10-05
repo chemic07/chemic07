@@ -1,8 +1,9 @@
-[![MasterHead](https://blog.icontact.com/wp-content/uploads/2020/09/VR-animation-vector.gif
-)]
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif
+)](https://rishavchanda.io
+)
 <h1 align="center">Hi 👋, I'm Raj Lodhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif>
+<h3 align="center">A passionate XR developer from India</h3>
+<img src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" alt="Girl in a jacket" width="400" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemic07&label=Profile%20views&color=0e75b6&style=flat" alt="chemic07" /> </p>
 
