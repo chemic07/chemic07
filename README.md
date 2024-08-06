@@ -1,23 +1,23 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif
-)](https://rishavchanda.io
+)](https://www.instagram.com/rajlodhi09/
 )
 <h1 align="center">Hi 👋, I'm Raj Lodhi</h1>
 <h3 align="center">A passionate XR developer from India</h3>
-<img src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" alt="Girl in a jacket" width="400" align="right" >
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chemic07&label=Profile%20views&color=0e75b6&style=flat" alt="chemic07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chemic077" target="blank"><img src="https://img.shields.io/twitter/follow/chemic077?logo=twitter&style=for-the-badge" alt="chemic077" /></a> </p>
 
-- 🔭 I’m currently working on **AR Education**
+- 🔭 I’m currently working on **RPG Game**
 
-- 🌱 I’m currently learning **Flutter, TypeScript**
+- 🌱 I’m currently learning **Game Development, Flutter**
 
-- 💬 Ask me about **AR, VR, WebDev, CGI**
+- 💬 Ask me about **GameDev, AR, VR, WebDev, CGI**
 
 - 📫 How to reach me **rajlodhi1208@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like music in the world of songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
